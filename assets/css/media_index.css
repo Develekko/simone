@@ -378,6 +378,22 @@
     {
         width: 50%;
     } 
+    .box-translate-1
+    {
+        transform: translatey(-75%);
+        -webkit-transform: translatey(-75%);
+        -moz-transform: translatey(-75%);
+        -ms-transform: translatey(-75%);
+        -o-transform: translatey(-75%);
+    }
+    .box-translate-2
+    {
+        transform: translatey(-50%);
+        -webkit-transform: translatey(-50%);
+        -moz-transform: translatey(-50%);
+        -ms-transform: translatey(-50%);
+        -o-transform: translatey(-50%);
+    }
     /* ===================== testimonial Media ===================== */
     .testimonial-content
     {
@@ -602,6 +618,22 @@
      {
          width: 50%;
      }   
+     .box-translate-1
+     {
+         transform: translatey(-75%);
+         -webkit-transform: translatey(-75%);
+         -moz-transform: translatey(-75%);
+         -ms-transform: translatey(-75%);
+         -o-transform: translatey(-75%);
+     }
+     .box-translate-2
+     {
+         transform: translatey(-50%);
+         -webkit-transform: translatey(-50%);
+         -moz-transform: translatey(-50%);
+         -ms-transform: translatey(-50%);
+         -o-transform: translatey(-50%);
+     }
      /* ===================== testimonial Media ===================== */
      .testimonial-content
      {
